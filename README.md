@@ -81,6 +81,8 @@ Preview | Description
 * [Data Science Engineer @ BTH](https://www.bth.se/nyheter/bth-startar-sveriges-forsta-civilingenjorsprogram-inom-data-science/)
 * [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/)
 * [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/master/course-offerings/management-data-science.html)
+* [Master of Data Science @ Melbourne University](https://science-courses.unimelb.edu.au/study/degrees/master-of-data-science/overview#overview)
+* [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
 
 ## MOOC's
 
@@ -273,6 +275,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
 - [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - free eBook sampler
 - [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - free eBook sampler
+- [Python® for R Users: A Data Science Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126805)
 
 ## Facebook Accounts
 
@@ -421,10 +424,8 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [Featuretools](https://github.com/featuretools/featuretools/) - An open source framework for automated feature engineering written in python
 * [Optimus](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend. 
 * [Albumentations](https://github.com/albu/albumentations) - А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques. Supports classification, segmentation, detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops.
+* [DVC](https://github.com/iterative/dvc) - An open-source data science version control system. It helps track, organize and make data science projects reproducible. In its very basic scenario it helps version control and share large data and model files. 
 
-Quick Start
-
- 
 ## Visualization Tools - Environments
  
  * [addepar](http://opensource.addepar.com/ember-charts/#/overview)
@@ -463,6 +464,8 @@ Quick Start
  * [Wrangler](http://vis.stanford.edu/wrangler/)
  * [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
  * [NetworkX](https://networkx.github.io/) - High-productivity software for complex networks
+ * [Redash](https://redash.io/)
+ * [C3](https://c3js.org/) - D3-based reusable chart library
 
 
 ## Journals, Publications and Magazines
