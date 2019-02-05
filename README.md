@@ -223,8 +223,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [datascopeanalytics](https://datascopeanalytics.com/blog/)
 - [Digital transformation](http://tarrysingh.com/)
 - [datascientistjourney](https://datascientistjourney.wordpress.com/category/data-science/)
-- [Data Mania Blog](http://www.data-mania.com/blog/)
-- [The File Drawer](http://chris-said.io/) - Chris Said's science blog
+- [Data Mania Blog](http://www.data-mania.com/blog/) - [The File Drawer](http://chris-said.io/) - Chris Said's science blog
 - [Emilio Ferrara's web page](http://www.emilio.ferrara.name/)
 - [DataNews](http://datanews.tumblr.com/)
 - [Reddit TextMining](https://www.reddit.com/r/textdatamining/)
@@ -267,6 +266,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
 
 ## Books
+
 - [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-at-scale-with-python-and-dask)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
@@ -279,6 +279,8 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - free eBook sampler
 - [Python® for R Users: A Data Science Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126805)
 - [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) 
+- [Math for Programmers](https://www.manning.com/books/math-for-programmers) Early access
+
 
 ## Facebook Accounts
 
@@ -432,6 +434,8 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [Albumentations](https://github.com/albu/albumentations) - А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques. Supports classification, segmentation, detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops.
 * [DVC](https://github.com/iterative/dvc) - An open-source data science version control system. It helps track, organize and make data science projects reproducible. In its very basic scenario it helps version control and share large data and model files.
 * [Lambdo](https://github.com/asavinov/lambdo) is a workflow engine which significantly simplifies data analysis by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation.
+* [Feast](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+* [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
 
 ## Visualization Tools - Environments
  
